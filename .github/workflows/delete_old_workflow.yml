@@ -1,3 +1,4 @@
+name: Delete old workflows
 on:
   workflow_dispatch:
 jobs:
