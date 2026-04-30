@@ -20,7 +20,7 @@ export default class extends DecoratableMangaScraper {
     private readonly apiUrl = 'https://hentaihallbackend-production.up.railway.app/manhwa/';
 
     public constructor() {
-        super('hentaihall', 'HentaiHall', 'https://hentaihall.com', Tags.Media.Manga, Tags.Media.Manhwa, Tags.Media.Manhua, Tags.Language.Multilingual, Tags.Source.Aggregator, Tags.Source.Scanlator);
+        super('hentaihall', 'HentaiHall', 'https://hentaihall.com', Tags.Media.Manga, Tags.Media.Manhwa, Tags.Media.Manhua, Tags.Language.Multilingual, Tags.Source.Aggregator, Tags.Rating.Pornographic);
     }
 
     public override get Icon() {
