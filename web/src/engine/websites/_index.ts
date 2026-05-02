@@ -62,6 +62,7 @@ export { default as CMangax } from './CMangax';
 export { default as Cocomic } from './Cocomic';
 export { default as CoffeeManga } from './CoffeeManga';
 export { default as ColaManga } from './ColaManga';
+export { default as ColorcitoScans } from './ColorcitoScans';
 export { default as ColoredManga } from './ColoredManga';
 export { default as ComicAction } from './ComicAction';
 export { default as ComicBorder } from './ComicBorder';
